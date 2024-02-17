@@ -17,8 +17,8 @@ Product.init(
      autoIncrement: true
     },
 
-    Product_name: {
-      tyoe: DataTypes.STRING,
+    product_name: {
+      type: DataTypes.STRING,
       allowNull: false
     },
 
@@ -33,7 +33,7 @@ Product.init(
       type: DataTypes.INTEGER,
       allowNull: false,
       validate: {
-        isInt: true
+        isNumeric: true
       }
     },
     category_id: {
