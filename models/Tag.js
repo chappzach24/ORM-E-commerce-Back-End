@@ -10,7 +10,10 @@ Tag.init(
       type: DataTypes.INTEGER,
       allowNull: false,
       primaryKey: true,
-      autoIncrement: true
+      autoIncrement: true,
+      validate: {
+        isInt: true 
+      }
     },
 
     tag_name: {
