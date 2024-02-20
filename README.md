@@ -2,7 +2,7 @@
 
 This application allows a user to manage categories, products, and tags for your e-commerce store. Simplify your online store management and enhance customer experience with easy-to-use endpoints for CRUD operations on essential e-commerce entities.
 
-[Video on how to use this app](https://drive.google.com/file/d/1cbSC5qEoN64eYZ2eSvcHGcX2s_j2C2Xs/view?usp=sharing)
+[Video on how to use this app](https://drive.google.com/file/d/18De30Unm-GifOcm0HCh0gQDyjCao-Jf0/view?usp=sharing)
 
 ## Features
 
